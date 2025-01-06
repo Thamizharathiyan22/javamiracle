@@ -1,1 +1,3 @@
 # javamiracle
+
+Java is such a wondful language...
